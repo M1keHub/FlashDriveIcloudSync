@@ -1,0 +1,6 @@
+{
+  "flash_drive_path": "/Volumes/UsbFlash",
+  "backup_directories": [
+    "~/Documents/test"
+  ]
+}
